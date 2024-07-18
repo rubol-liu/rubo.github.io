@@ -1,0 +1,58 @@
+body {
+    background: #1B1B25;
+    color: #fff;
+    line-height: 1.4;
+    margin: 20px;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container {
+    max-width: 840px;
+    margin: auto;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.contact-info {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.4rem;
+}
+
+.contact-info a {
+    text-decoration: none;
+    color: #0073b1;
+}
+
+.section {
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+}
+
+.section h2 {
+    border-bottom: 1px solid #0073b1;
+    padding-bottom: 2px;
+}
+
+.experience, .education {
+    margin-top: 10px;
+}
+
+.job-title {
+    font-weight: bold;
+}
+
+.company {
+    font-style: italic;
+}
+
+.duration {
+    font-style: italic;
+}
+
+.project-link a {
+    text-decoration: none;
+    color: #0073b1;
+}
